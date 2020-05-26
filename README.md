@@ -6,7 +6,7 @@ This page explains Java and Perl programs used for the paper "Comparison of de-d
 The data tabulation according to WHO GLASS was conducted using the Java program as follows
 
 ```
-java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -postprocess 1 -dup_by_specimen -dup_days 365 -pre GLASS_2017_dupDays365_dup_by_specimen_ 
+java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -dup_by_specimen -dup_days 365 -pre GLASS_2017_dupDays365_dup_by_specimen_ -postprocess 1 
 ```
 
 
@@ -14,7 +14,7 @@ java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -postprocess 1
 The data tabulation according to JANIS (Japan Nosocomial Infections Surveillance) to calculate the number of patients was conducted using the Java program as follows:
 
 ```
-java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -postprocess 1                                -pre GLASS_2017_dupJANISpatient_ 
+java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012                                -pre GLASS_2017_dupJANISpatient_ -postprocess 1 
 ```
 
 
@@ -22,7 +22,7 @@ java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -postprocess 1
 The data tabulation according to JANIS (Japan Nosocomial Infections Surveillance) to calculate the number of isolates was conducted using the Java program as follows:
 
 ```
-java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -postprocess 1                                -pre GLASS_2017_dupJANISisolate_ -dup isolate
+java -jar CommandLineTool.jar input2017.csv.gz -sum 1  -clsi 2012 -dup isolate                   -pre GLASS_2017_dupJANISisolate_ -postprocess 1 
 ```
 
 
