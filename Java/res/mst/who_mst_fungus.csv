@@ -1,0 +1,42 @@
+010,大腸菌,2001;2002;2003;2004;2005;2006;2007
+020,Klebsiella pneumoniae,2351
+030,Acinetobacter spp.,4400;4401;4402;4403
+040,Staphylococcus aureus,1301;1303;1304;1305;1306
+050,Streptococcus pneumoniae,1131
+060,Salmonella,2450;2451;2452;2453;2454;2455;2456
+070,Shigella,2500;2501;2502;2503;2504
+080,メチシリン耐性黄色ブドウ球菌(MRSA)
+090,バンコマイシン耐性黄色ブドウ球菌(VRSA)
+100,バンコマイシン耐性腸球菌(VRE)
+110,ペニシリン耐性肺炎球菌(PRSP)
+120,多剤耐性緑膿菌(MDRP)
+130,多剤耐性アシネトバクター属(MDRA)
+140,カルバペネム耐性腸内細菌科細菌(CRE)
+150,カルバペネム耐性緑膿菌
+160,第三世代セファロスポリン耐性肺炎桿菌
+170,第三世代セファロスポリン耐性大腸菌
+180,フルオロキノロン耐性大腸菌
+190,Methicillin-susceptible Staphylococcus aureus(MSSA)
+200,OHP_Enterobacter cloacae,2151
+210,OHP_Enterobacter aerogenes,2152
+220,OHP_Pseudomonas aeruginosa,4001;4002
+240,OHP_Haemophilus influenzae,3201;3202;3203;3205;3208;3211;3214;3217;3220;3223
+250,OHP_Staphylococcus epidermidis,1312
+260,OHP_Coagulase-negative staphylococci (CNS),1311;1313;1314;1315;1316;1317;1318;1319;1320;1321;1322;1323;1324;1325
+270,OHP_Enterococcus faecalis,1201;1202
+280,OHP_Enterococcus faecium,1205;1206
+290,OHP_Streptococcus pneumoniae,1131;1132;1133;1134
+300,OHP_Streptococcus pyogenes,1111
+310,OHP_Streptococcus agalactiae,1114
+320,OHP_Citrobacter freundii,2051
+330,OHP_Citrobacter koseri,2052
+340,OHP_Proteus mirabilis,2201
+350,OHP_Proteus vulgaris,2202
+360,OHP_Serratia marcescens,2101
+370,OHP_Bacillus cereus,6101
+380,OHP_Campylobacter jejuni,3701
+390,OHP_Campylobacter coli,3702
+400,OHP_Campylobacter spp.,3700;3703;3704
+410,OHP_non-typhoidal Salmonella spp.,2453;2454;2455;2456
+420,OHP_Streptococcus pneumoniae (meningitis),1131;1132;1133;1134
+430,Neisseria gonorrhoeae,1801;1802;1803

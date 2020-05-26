@@ -1,0 +1,35 @@
+Streptococcus pneumoniae,1131;1132;1133;1134
+Haemophilus influenzae,3201;3202;3203;3205;3208;3211;3214;3217;3220;3223;
+Moraxella spp.,1850;1851
+Staphylococcus aureus,1301;1304;1305;1306
+MRSA,1303
+Klebsiella pneumoniae,2351
+Enterobacter cloacae,2151
+Enterobacter aerogenes,2152
+Escherichia coli,2001;2002;2003;2004;2005;2006;2007
+Pseudomonas aeruginosa,4001
+Acinetobacter spp.,4400;4401;4402;4403
+Enterococcus faecalis,1201;1202
+Enterococcus faecium,1205;1206
+Enterococcus spp.,1200;1209;1210;1213;1214;1215;1216;1217
+Streptococcus pyogenes,1111
+Streptococcus agalactiae,1114
+C群β-Streptococcus,1117
+F群β-Streptococcus,1120
+G群β-Streptococcus,1123
+Streptococcus sp.,1100
+α-Streptococcus,1101
+Streptococcus Viridans group,1141;1142;1143;1144;1145;1146;1147;1148;1149;1150;1151
+β-Streptococcus,1102
+γ-Streptococcus,1103
+CNS,1311;1312;1313;1314;1315;1316;1317;1318;1319;1320;1321;1322;1323;1324;1325
+Corynebacterium spp.,6000;6001;6002
+Candida spp.,7000;7001;7002;7003;7004;7005;70067007
+Cryptococcus spp.,7110;7111
+Yeasts,1015
+Aspergillus spp.,7300;7301;7302;7303;7304;7305
+Gram-positive cocci,1011
+Gram-positive bacilli,1012
+Gram-negative cocci,1013
+Gram-negative bacilli,1014
+その他の菌種,9998

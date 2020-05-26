@@ -1,0 +1,27 @@
+Escherichia coli,2001;2002;2003;2004;2005;2006;2007
+Klebsiella pneumoniae,2351
+Enterobacter cloacae,2151
+Enterobacter aerogenes,2152
+Citrobacter freundii,2051
+Citrobacter koseri,2052
+Proteus mirabilis,2201
+Proteus vulgaris,2202
+Serratia marcescens,2101
+Pseudomonas aeruginosa,4001
+Acinetobacter spp.,4400;4401;4402;4403
+Staphylococcus aureus,1301;1304;1305;1306
+MRSA,1303
+CNS,1311;1312;1313;1314;1315;1316;1317;1318;1319;1320;1321;1322;1323;1324;1325
+Enterococcus faecalis,1201;1202
+Enterococcus faecium,1205;1206
+Enterococcus spp.,1200;1209;1210;1213;1214;1215;1216;1217
+Streptococcus agalactiae,1114
+その他のβ-streptococcus,1102;1111;1117;1120;1123
+Neisseria gonorrhoeae,1800;1801;1802;1803
+Candida spp.,7000;7001;7002;7003;7004;7005;70067007
+Yeasts,1015
+Gram-positive cocci,1011
+Gram-positive bacilli,1012
+Gram-negative cocci,1013
+Gram-negative bacilli,1014
+その他の菌種,9998
