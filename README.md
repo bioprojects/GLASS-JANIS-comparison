@@ -52,4 +52,4 @@ perl sum_GLASSformat_RIS.pl    -f GLASS_2017_dupJANISpatient_bacteriaDrugGLASSSu
 ```
 
 
-For the data files further tabulated by prefectures and user-friendly analytical Excel tool mentioned in the paper, please look at https://www.niid.go.jp/niid/ja/from-lab/2415-amrc/9213-janis-glass-excel-en.html
+Finally, for the data files further tabulated by prefectures and user-friendly analytical Excel tool mentioned in the paper, please look at https://www.niid.go.jp/niid/ja/from-lab/2415-amrc/9213-janis-glass-excel-en.html
