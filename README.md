@@ -51,3 +51,5 @@ perl sum_GLASSformat_RIS.pl    -f GLASS_2017_dupJANISisolate_bacteriaDrugGLASSSu
 perl sum_GLASSformat_RIS.pl    -f GLASS_2017_dupJANISpatient_bacteriaDrugGLASSSummary_20190524094832.txt_REFINE.csv | grep -v GENITAL > out_RIS_JANISpatient.csv
 ```
 
+
+For the data files further tabulated by prefectures and user-friendly analytical Excel tool mentioned in the paper, please look at https://www.niid.go.jp/niid/ja/from-lab/2415-amrc/9213-janis-glass-excel-en.html
