@@ -31,7 +31,7 @@ The input files must contain the following data fields (with headers currently w
 
 
 
-If there is anyone who would like to utilize this program for tabulation of another data file with different data format, please take a contact with corresponding authors kajihara or k-yahara at niid.go.jp for discussions and collaborations we will appreciate.
+If there is anyone who would like to utilize this program for tabulation of another data file with different data format, please take a contact with corresponding authors kajihara and k-yahara at niid.go.jp for discussions and collaborations we will appreciate.
 
 
 
